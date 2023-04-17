@@ -1,0 +1,2 @@
+# estudos
+map ou apply 
